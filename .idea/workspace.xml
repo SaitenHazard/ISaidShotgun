@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f94cf853-bea7-4437-a72d-93dc0755d517" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.import/Player.png-0662117005c6b9039deb63a286c8efe4.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.import/bullet.png-6b56c7898a9b46a3c3db58585f0f8e0d.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.import/bullet.png-6b56c7898a9b46a3c3db58585f0f8e0d.stex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.import/down.png-35ddd6b8ef686cc051d41b620f6bf5b9.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.import/down.png-35ddd6b8ef686cc051d41b620f6bf5b9.stex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.import/icon.png-487276ed1e3a0c39cad0279d744ee560.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.import/pallette.png-4b7510aa4ffbedb9a3d0008b621c4f19.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.import/pallette.png-4b7510aa4ffbedb9a3d0008b621c4f19.stex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.import/player.png-b12d81cacd41edd115dbd315254b5ad9.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.import/player.png-b12d81cacd41edd115dbd315254b5ad9.stex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.import/right.png-561df4b72396dbc83e69209321eb6cc6.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.import/right.png-561df4b72396dbc83e69209321eb6cc6.stex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.import/up.png-c2586b057a1621b66ca2101444438a6a.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.import/up.png-c2586b057a1621b66ca2101444438a6a.stex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tscn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bullet.gd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bullet.tscn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.tscn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Player.gd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Player.tscn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprites/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprites/bullet.png.import" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprites/pallette.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprites/pallette.png.import" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprites/player.png.import" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprites/player/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprites/player/down.png.import" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprites/player/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprites/player/right.png.import" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprites/player/up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprites/player/up.png.import" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/default_env.tres" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon.png.import" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.godot" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mdpimz53VXscfXyaVzii8TxMMC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f94cf853-bea7-4437-a72d-93dc0755d517" name="Default Changelist" comment="" />
+      <created>1609833452904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609833452904</updated>
+      <workItem from="1609833458435" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2351" y="181" key="search.everywhere.popup" timestamp="1609833463646">
+      <screen x="1982" y="0" width="1474" height="864" />
+    </state>
+    <state x="2351" y="181" key="search.everywhere.popup/1982.0.1474.864/62.0.1474.864/126.1080.1640.720@1982.0.1474.864" timestamp="1609833463646" />
+  </component>
+</project>
