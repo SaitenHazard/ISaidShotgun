@@ -15,6 +15,7 @@ func _shoot():
 		var scene = load("res://Bullet.tscn")
 		var bullet = scene.instance()
 		add_child(bullet)
+		bullet.set_as_toplevel(true)
 
 func _movement():
 	velocity = Vector2.ZERO
