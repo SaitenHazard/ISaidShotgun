@@ -10,12 +10,15 @@ var speed : int = 200
 var velocity : Vector2 = Vector2.ZERO
 var direction : Vector2 = Vector2.DOWN
 
+func _get_direction():
+	return direction
+
 func _shoot():
 	if Input.is_action_just_pressed("shoot"):
 		var scene = load("res://Bullet.tscn")
 		var bullet = scene.instance()
-		add_child(bullet)
-		bullet.set_as_toplevel(true)
+		get_tree().get_root().get_node("MainScene").add_child(bullet)
+		bullet._start(direction);
 
 func _movement():
 	velocity = Vector2.ZERO
@@ -33,7 +36,6 @@ func _movement():
 		direction = velocity
 		
 	velocity = velocity.normalized() * speed
-	
 	velocity = move_and_slide(velocity, Vector2.UP)
 	
 func _set_sprite():
