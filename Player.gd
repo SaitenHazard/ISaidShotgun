@@ -36,7 +36,7 @@ func _movement():
 		direction = velocity
 		
 	velocity = velocity.normalized() * speed
-	velocity = move_and_slide(velocity, Vector2.UP)
+	move_and_slide(velocity, Vector2.UP)
 	
 func _set_sprite():
 	if direction == Vector2.DOWN:
